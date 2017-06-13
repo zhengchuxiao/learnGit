@@ -1,0 +1,7 @@
+diff a/file.txt b/file.txt	(rejected hunks)
+@@ -7,3 +7,4 @@
+ 3213123123
+ Creating a new branch is quick and simple
+ 111222333444
++555
+\ No newline at end of file
